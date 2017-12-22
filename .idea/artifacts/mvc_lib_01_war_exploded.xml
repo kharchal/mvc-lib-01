@@ -11,9 +11,9 @@
           <element id="library" level="project" name="Spring-4.3.13.RELEASE" />
           <element id="library" level="project" name="Spring MVC-4.3.13.RELEASE" />
           <element id="library" level="project" name="lombok" />
+          <element id="library" level="project" name="antlr-2.7.7" />
           <element id="library" level="project" name="jstl-1.2" />
-          <element id="library" level="project" name="required" />
-          <element id="library" level="project" name="mysql-connector-java-5.1.38" />
+          <element id="library" level="project" name="mysql-connector-java-5.1.44-bin" />
         </element>
       </element>
     </root>
